@@ -1,3 +1,3 @@
-# A cool disocrd by a cool person
+# A cool discord bot by a cool person
 
 HEAVILY UNDER DEVELOPMENT
